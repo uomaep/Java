@@ -14,7 +14,6 @@ public class P1099 {
 			}
 		}
 		
-		
 		for(int i=1; i<=box.length-2; i++) {
 			for(int j=1; i<=box[i].length-2; j++) {
 				if(box[i][j] == 0) box[i][j] = 9;
